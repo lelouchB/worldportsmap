@@ -1,0 +1,16 @@
+body{
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+    )
+}
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Sacramento', cursive;
+    vertical-align: top;
+    display: inline-block;
+    position: relative;
+}
